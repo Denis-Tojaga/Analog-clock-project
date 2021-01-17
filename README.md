@@ -5,4 +5,4 @@ Analog clock made using JavaScript built-in methods, simple design and functiona
 <br><br>
 ![](AppImages/slika1.png)
 <br><br>
-![][AppImages/slika2.png]
+![](AppImages/slika2.png)
